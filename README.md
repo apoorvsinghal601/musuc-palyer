@@ -1,1 +1,1 @@
-# musuc-palyer
+# music-palyer
